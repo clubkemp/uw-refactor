@@ -21,7 +21,7 @@ If you feel the need, go ahead and download the example files and refactor furth
 
 ## Credits
 
-Original files created by © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. Refactor completed by Jonny K. [https://github.com/clubkemp/](https://github.com/clubkemp/). Shout out to Sean Morgan [https://github.com/insideseanshead] (https://github.com/insideseanshead) for swapping notes 
+Original files created by © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. Refactor completed by Jonny K. [https://github.com/clubkemp/]. Shout out to Sean Morgan [https://github.com/insideseanshead] for swapping notes 
 
 
 
