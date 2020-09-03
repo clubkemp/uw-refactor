@@ -118,5 +118,9 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     font-size: 20px;
+    color: #0072bb;
+}
+.foot-elem{
+    color: #0072bb;
 }
 
