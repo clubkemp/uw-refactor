@@ -14,3 +14,18 @@ Each of these items is easy to miss when coding in the moment. That is why for t
 ## Scouts honor
 In addition to Acceptance criteria, it is always a good idea to clean up the code as much as possible. In this regard, making sure the anchor links in the nav bar are all working correctly. Also removing redundent css, and consolidating classes or removing them where appropriate.
 
+## Usage 
+
+If you feel the need, go ahead and download the example files and refactor further if you wish.
+
+
+## Credits
+
+Original files created by © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. Refactor completed by Jonny K. [https://github.com/clubkemp/](https://github.com/clubkemp/). Shout out to Sean Morgan [https://github.com/insideseanshead]https://github.com/insideseanshead for swapping notes 
+
+
+
+## License
+
+CC0 1.0 Universal
+
